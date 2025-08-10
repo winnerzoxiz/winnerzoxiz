@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-### I'm in Fullstack Developer
+### I'm Junior Fullstack Developer
 
 - 🔭 I’m currently developing the school website for Sanpatongwittayakom School. 
 - 🌱 I’m currently learning React
